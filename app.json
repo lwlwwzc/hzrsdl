@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/contact/contact"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#848484",
+    "selectedColor": "#37c1f4",
+    "backgroundColor": "#FFFFFF",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "首页",
+        "iconPath": "/resources/home_n.png",
+        "selectedIconPath": "/resources/home_h.png"
+      },
+      {
+        "pagePath": "pages/contact/contact",
+        "text": "联系方式",
+        "iconPath": "/resources/contact_n.png",
+        "selectedIconPath": "/resources/contact_h.png"
+      }
+    ]
+  }
+}

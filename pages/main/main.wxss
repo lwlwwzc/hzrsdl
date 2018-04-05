@@ -1,0 +1,27 @@
+/* pages/main/main.wxss */
+@import "/styles/custom.wxss";
+
+.whiteBg
+{
+  background-color: white;
+}
+
+.greenBg
+{
+  background-color: #23bf68;
+}
+
+.greenColor
+{
+  color: #23bf68;
+}
+
+.grayColor
+{
+  color:#747474;
+}
+
+.whiteColor
+{
+  color: white;
+}

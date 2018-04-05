@@ -1,0 +1,251 @@
+.pos_r {
+  position: relative;
+}
+
+.pos_a {
+  position: absolute;
+}
+
+.container_row {
+  display: flex;
+  flex-direction: row;
+}
+
+.container_column {
+  display: flex;
+  flex-direction: column;
+}
+
+.left_10 {
+  margin-left: 10rpx;
+}
+
+.left_30 {
+  margin-left: 30rpx;
+}
+
+.left_50 {
+  margin-left: 50rpx;
+}
+
+.left_100 {
+  margin-left: 100rpx;
+}
+
+.left_200 {
+  margin-left: 200rpx;
+}
+
+.top_10 {
+  margin-top: 10rpx;
+}
+
+.top_30 {
+  margin-top: 30rpx;
+}
+
+.top_50 {
+  margin-top: 50rpx;
+}
+
+.top_100 {
+  margin-top: 100rpx;
+}
+
+.top_200 {
+  margin-top: 200rpx;
+}
+
+.right_30 {
+  margin-right: 30rpx;
+}
+
+.right_50 {
+  margin-right: 50rpx;
+}
+
+.right_100 {
+  margin-right: 100rpx;
+}
+
+.right_30 {
+  margin-right: 30rpx;
+}
+
+.right_50 {
+  margin-right: 50rpx;
+}
+
+.right_200 {
+  margin-right: 200rpx;
+}
+
+.bottom_30 {
+  margin-bottom: 30rpx;
+}
+
+.bottom_50 {
+  margin-bottom: 50rpx;
+}
+
+.bottom_100 {
+  margin-bottom: 100rpx;
+}
+
+.bottom_200 {
+  margin-bottom: 200rpx;
+}
+
+.jc_start {
+  justify-content: flex-start;
+}
+
+.jc_end {
+  justify-content: flex-end;
+}
+
+.jc_center {
+  justify-content: center;
+}
+
+.jc_between {
+  justify-content: space-between;
+}
+
+.jc_around {
+  justify-content: space-around;
+}
+
+.align_start {
+  align-items: flex-start;
+}
+
+.align_end {
+  align-items: flex-end;
+}
+
+.align_center {
+  align-items: center;
+}
+
+.align_between {
+  align-items: space-between;
+}
+
+.align_around {
+  align-items: space-around;
+}
+
+.align_stretch {
+  align-items: stretch;
+}
+
+.self_start {
+  align-self: flex-start;
+}
+
+.self_end {
+  align-self: flex-end;
+}
+
+.self_center {
+  align-self: center;
+}
+
+.self_stretch {
+  align-self: stretch;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.fullHeight {
+  height: 100%;
+}
+
+.fullSize {
+  width: 100%;
+  height: 100%;
+}
+
+.titleText {
+  font-size: 80rpx;
+  font-weight: bold;
+}
+
+.bold{
+  font-weight: bold
+}
+
+.h1{
+  font-size: 50rpx;
+}
+
+.h2{
+  font-size: 40rpx;
+}
+
+.h3{
+  font-size: 30rpx;
+}
+
+.scroll-view_H {
+  width: 100%;
+  height: 100%;
+  white-space: nowrap;
+}
+
+.scroll-view-item_H {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+
+.avatarImage {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+}
+
+.searchView {
+  background-color: white;
+  width: 700rpx;
+  height: 50rpx;
+  border-style: solid;
+  border-width: 2rpx;
+  border-radius: 50rpx;
+  border-color: black;
+  display: flex;
+  flex-flow: row;
+  align-self: center;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10rpx;
+  margin: 40rpx;
+}
+
+.placeholderStyle {
+  font-size: 40rpx;
+  color: red;
+}
+
+.border_1 {
+  border-style: solid;
+  border-width: 1rpx;
+  border-color: #000;
+}
+
+.border_2 {
+  border-style: solid;
+  border-width: 2rpx;
+  border-color: #000;
+}
+
+.specificLine {
+  width: 100%;
+  height: 2rpx;
+  background-color: #b2b2b2;
+}
+
+

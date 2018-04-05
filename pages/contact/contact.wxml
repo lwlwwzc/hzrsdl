@@ -1,0 +1,19 @@
+<!--pages/contact/contact.wxml-->
+<scroll-view class="container_column jc_start align_start">
+  <view class="container_column jc_start align_start">
+    <image class='top_30 imgView self_stretch' src='/resources/contact_bg.jpg' mode='widthFix'></image>
+    <view class='container_column jc_center align_center self_stretch top_50 titleView'>
+      <text class='titleText'>联系方式</text>
+    </view>
+    <view class='container_column jc_center align_center self_stretch top_50 wxView'>
+      <view class='container_row jc_start align_start'>
+        <text class='contentText'>联系人：</text>
+        <text class='contentText'>老吕</text>
+      </view>
+      <view class="container_row jc_start align_start top_30">
+        <text class='contentText'>微信：</text>
+        <text class='contentText' selectable="true">lct4217</text>
+      </view>
+    </view>
+  </view>
+</scroll-view>

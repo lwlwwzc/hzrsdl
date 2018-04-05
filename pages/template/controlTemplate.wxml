@@ -1,0 +1,5 @@
+<template name="roundTextView">
+  <view style='display:flex;justify-content:center;align-items:center;width:{{radius*2}}rpx;height:{{radius*2}}rpx;border-radius:{{radius}}rpx;background-color:{{bgColor}}'>
+    <text style='font-size:{{fontSize}}rpx;color:{{fontColor}};text-align:center;font-weight: bold;margin:16rpx;'>{{text}}</text>
+  </view>
+</template>

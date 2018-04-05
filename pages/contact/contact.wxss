@@ -1,0 +1,62 @@
+/* pages/contact/contact.wxss */
+@import "/styles/custom.wxss";
+
+.mainView
+{
+  background-color: #eeeeee;
+}
+
+.titleView
+{
+  background-color: lightgreen;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  height: 200rpx;
+  border-radius: 30rpx;
+}
+
+.wxView
+{
+  background-color:white;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  height: 300rpx;
+  border-radius: 30rpx;
+}
+
+.titleText
+{
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.contentText
+{
+  font-size: 50rpx;
+  font-family:'Times New Roman';
+  font-weight: bold;
+  line-height: 50rpx;
+  color: black;
+}
+
+.iconView
+{
+  width:100rpx;
+  height:100rpx;
+}
+
+.imgView
+{
+  border-radius: 30rpx;
+  width:690rpx;
+  margin-left: 30rpx;
+}
+
+.csButton
+{
+  font-family:'Times New Roman';
+  width: 690rpx;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+}
