@@ -23,16 +23,16 @@
     <text class='bold' style='width:300rpx;'>备注：</text>
     <view class='container_column jc_start align_start top_10'>
       <view class='container_row jc_start align_start'>
-        <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'1',fontSize:30,fontColor:'#ffffff'}}"></template>
-        <text class='left_10 h3 grayColor'>季付、半年付、年付三种缴费方式</text>
+        <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'1',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+        <text class='left_10 h3 grayColor'>1.季付、半年付、年付三种缴费方式</text>
       </view>
       <view class='container_row jc_start align_start top_30'>
-        <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'2',fontSize:30,fontColor:'#ffffff'}}"></template>
-        <text class='left_10 h3 grayColor'>杭州社保每年7月上调社保基数，但从一月开始执行。因此每年6月前要补参保月份至6月社保差额，差额部分另行收取</text>
+        <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'2',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+        <text class='left_10 h3 grayColor'>2.杭州社保每年7月上调社保基数，但从一月开始执行。因此每年6月前要补参保月份至6月社保差额，差额部分另行收取</text>
       </view>
       <view class='container_row jc_start align_start top_30'>
-        <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'3',fontSize:30,fontColor:'#ffffff'}}"></template>
-        <text class='left_10 h3 grayColor'>公积金可自行选择，不单独缴纳公积金，需和社保共同缴纳</text>
+        <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'3',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+        <text class='left_10 h3 grayColor'>3.公积金可自行选择，不单独缴纳公积金，需和社保共同缴纳</text>
       </view>
     </view>
   </view>
@@ -42,28 +42,28 @@
   <view class='container_column jc_start align_start left_30 top_30' style='width:690rpx;'>
     <text class='bold h2'>首次参保：</text>
     <view class='container_column jc_start align_start top_30 grayColor'>
-      <text class='h3'>1、详细了解参保注意事项及流程，有疑问咨询“老吕”；</text>
-      <text class='h3 top_10'>2、备注参保项目，联系方式，户籍性质，以及电子版身份证（正反面）；</text>
-      <text class='h3 top_10'>3、确保之前公司已经停保，若无停保，我们无法帮您申请；</text>
-      <text class='h3 top_10'>4、确认好后付款；</text>
-      <text class='h3 top_10'>5、次月查询到账情况；</text>
-      <text class='h3 top_10'>6、社保到账时间，例如：1月参保的，2月初由地税代扣，再返回社保部门，这样有个时间差，一般3月中上旬可以查到。因为钱是地税扣的，再返回社保，不是一个部门所以时间会有些滞后。具体可以和12333核实。</text>
+      <text class='h3'>1.详细了解参保注意事项及流程，有疑问咨询“老吕”；</text>
+      <text class='h3 top_10'>2.备注参保项目，联系方式，户籍性质，以及电子版身份证（正反面）；</text>
+      <text class='h3 top_10'>3.确保之前公司已经停保，若无停保，我们无法帮您申请；</text>
+      <text class='h3 top_10'>4.确认好后付款；</text>
+      <text class='h3 top_10'>5.次月查询到账情况；</text>
+      <text class='h3 top_10'>6.社保到账时间，例如：1月参保的，2月初由地税代扣，再返回社保部门，这样有个时间差，一般3月中上旬可以查到。因为钱是地税扣的，再返回社保，不是一个部门所以时间会有些滞后。具体可以和12333核实。</text>
     </view>
     <view class='specificLine top_30'></view>
     <view class='container_column jc_start align_start top_30'>
       <text class='bold h2'>续保：</text>
       <view class='container_column jc_start align_start top_30 grayColor'>
         <view class='container_row jc_start align_start'>
-          <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'1',fontSize:30,fontColor:'#ffffff'}}"></template>
-          <text class='h3 left_10'>联系“老吕”续费;</text>
+          <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'1',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+          <text class='h3 left_10'>1.联系“老吕”续费;</text>
         </view>
         <view class='container_row jc_start align_start top_10'>
-          <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'2',fontSize:30,fontColor:'#ffffff'}}"></template>
-          <text class='h3 left_10'>备注姓名及联系方式;</text>
+          <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'2',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+          <text class='h3 left_10'>2.备注姓名及联系方式;</text>
         </view>
         <view class='container_row jc_start align_start top_10'>
-          <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'3',fontSize:30,fontColor:'#ffffff'}}"></template>
-          <text class='h3 left_10'>次月可查询到账情况;</text>
+          <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'3',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+          <text class='h3 left_10'>3.次月可查询到账情况;</text>
         </view>
       </view>
     </view>
@@ -73,36 +73,36 @@
   </view>
   <view style='width:690rpx;' class='container_column jc_start align_start top_50 left_30 grayColor'>
     <view class='container_row jc_start align_start'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'1',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>我们不提供以下文件，包括但不限于劳动合同，工作证明，收入证明，如有需要请与“老吕”沟通。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'1',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>1.我们不提供以下文件，包括但不限于劳动合同，工作证明，收入证明，如有需要请与“老吕”沟通。</text>
     </view>
     <view class='container_row jc_start align_start top_10'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'2',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>隐瞒病情参保、违规骗保，后果自负。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'2',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>2.隐瞒病情参保.违规骗保，后果自负。</text>
     </view>
     <view class='container_row jc_start align_start top_10'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'3',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>参保人员确保参保时没有怀孕，申报生育保险需要在本企业参保满1年以上才能申报（代缴后怀孕不受影响）。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'3',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>3.参保人员确保参保时没有怀孕，申报生育保险需要在本企业参保满1年以上才能申报（代缴后怀孕不受影响）。</text>
     </view>
     <view class='container_row jc_start align_start top_10'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'4',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>首次缴费超过45周岁，我们无法申请。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'4',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>4.首次缴费超过45周岁，我们无法申请。</text>
     </view>
     <view class='container_row jc_start align_start top_10'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'5',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>一旦缴费成功，所缴保费无法退回，请慎重。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'5',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>5.一旦缴费成功，所缴保费无法退回，请慎重。</text>
     </view>
     <view class='container_row jc_start align_start top_10'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'6',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>杭州社保每年7月上调社保基数，但从一月开始执行。因此每年6月前要补参保月份至6月社保差额，差额部分另行收取。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'6',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>6.杭州社保每年7月上调社保基数，但从一月开始执行。因此每年6月前要补参保月份至6月社保差额，差额部分另行收取。</text>
     </view>
     <view class='container_row jc_start align_start top_10'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'7',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>我们不存在劳动关系，只是社保代理服务，无法提供工伤报销及失业金申报服务。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'7',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>7.我们不存在劳动关系，只是社保代理服务，无法提供工伤报销及失业金申报服务。</text>
     </view>
     <view class='container_row jc_start align_start top_10'>
-      <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'8',fontSize:30,fontColor:'#ffffff'}}"></template>
-      <text class='h3 left_10'>一旦发现参保人员存在虚假参保或不符合参保条件情形，有权单方面终止参保人员的参保，由此造成的损失由参保人承担。</text>
+      <!-- <template is="roundTextView" data="{{radius:'20',bgColor:'#23bf68',text:'8',fontSize:30,fontColor:'#ffffff'}}"></template> -->
+      <text class='h3 left_10'>8.一旦发现参保人员存在虚假参保或不符合参保条件情形，有权单方面终止参保人员的参保，由此造成的损失由参保人承担。</text>
     </view>
     <view class='specificLine top_10'></view>
   </view>
@@ -112,36 +112,36 @@
   <view style='width:690rpx;' class='container_column jc_start align_start left_30 bottom_30 grayColor'>
     <view class='container_column jc_start align_start top_30'>
       <view class='container_row jc_start align_start'>
-        <text class='bold h3'>1.</text>
-        <text class='h3'>务必确保12日前缴纳或续费，超过此日期未续费，则视为放弃，将自动减员，损失自行承担。</text>
+        <!-- <text class='bold h3'>1.</text> -->
+        <text class='h3'>1.务必确保12日前缴纳或续费，超过此日期未续费，则视为放弃，将自动减员，损失自行承担。</text>
       </view>
     </view>
     <view class='specificLine top_10'></view>
     <view class='container_column jc_start align_start top_10'>
       <view class='container_row jc_start align_start'>
-        <text class='bold h3'>2.</text>
-        <text class='h3'>每月22日后可拨打0571-12333自助语音系统查询当月社保，补缴社保信息需次月才能查到。每月25日可拨打0571-12329查询公积金缴费信息。</text>
+        <!-- <text class='bold h3'>2.</text> -->
+        <text class='h3'>2.每月22日后可拨打0571-12333自助语音系统查询当月社保，补缴社保信息需次月才能查到。每月25日可拨打0571-12329查询公积金缴费信息。</text>
       </view>
     </view>
     <view class='specificLine top_10'></view>
     <view class='container_column jc_start align_start top_10'>
       <view class='container_row jc_start align_start'>
-        <text class='bold h3'>3.</text>
-        <text class='h3'>进入支付宝的城市服务，点击“社保查询”即可方便查询。支付宝查询会有延迟，比12333晚。</text>
+        <!-- <text class='bold h3'>3.</text> -->
+        <text class='h3'>3.进入支付宝的城市服务，点击“社保查询”即可方便查询。支付宝查询会有延迟，比12333晚。</text>
       </view>
     </view>
     <view class='specificLine top_10'></view>
     <view class='container_column jc_start align_start top_10'>
       <view class='container_row jc_start align_start'>
-        <text class='bold h3'>4.</text>
-        <text class='h3'>可自行前往行政服务中心或自助查询机查询。</text>
+        <!-- <text class='bold h3'>4.</text> -->
+        <text class='h3'>4.可自行前往行政服务中心或自助查询机查询。</text>
       </view>
     </view>
     <view class='specificLine top_10'></view>
     <view class='container_column jc_start align_start top_10'>
       <view class='container_row jc_start align_start'>
-        <text class='bold h3'>5.</text>
-        <text class='h3'>如果提前停保，请与“老吕”沟通，12号之后没有提交确认，而缴纳成功的，不作退费。</text>
+        <!-- <text class='bold h3'>5.</text> -->
+        <text class='h3'>5.如果提前停保，请与“老吕”沟通，12号之后没有提交确认，而缴纳成功的，不作退费。</text>
       </view>
     </view>
     <view class='specificLine top_10'></view>
